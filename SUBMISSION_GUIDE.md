@@ -5,14 +5,14 @@
 ### Step 1: Create GitHub Repository (5 minutes)
 
 1. **Open GitHub**: https://github.com/new
-2. **Log in** with your account (pramod704)
+2. **Log in** with your account (Ashish111279)
 3. **Fill in these details**:
    - **Repository name**: `TravelMemory-Deployment`
    - **Description**: `Complete deployment documentation and scripts for Travel Memory MERN stack on AWS EC2 with Cloudflare DNS`
    - **Visibility**: Select `Public` ⚠️ (Important for submission!)
    - **Initialize**: Do NOT check "Add a README file"
 4. **Click**: "Create repository"
-5. **Copy the URL** shown (should be): `https://github.com/pramod704/TravelMemory-Deployment`
+5. **Copy the URL** shown (should be): `https://github.com/Ashish111279/TravelMemory-Deployment`
 
 ### Step 2: Push Code to GitHub (2 minutes)
 
@@ -35,13 +35,13 @@ git push -u origin master
 ```
 
 When prompted:
-- **Username**: pramod704
+- **Username**: Ashish111279
 - **Password**: Your GitHub password (or Personal Access Token)
 
 ### Step 3: Verify Push Was Successful
 
 After push completes, check on GitHub:
-1. Go to: `https://github.com/pramod704/TravelMemory-Deployment`
+1. Go to: `https://github.com/Ashish111279/TravelMemory-Deployment`
 2. You should see all files:
    - README_DEPLOYMENT.md
    - DEPLOYMENT_DOCUMENTATION.md
@@ -66,7 +66,7 @@ After push completes, check on GitHub:
 Vlearn Submission - Travel Memory Deployment
 
 Repository Link:
-https://github.com/pramod704/TravelMemory-Deployment
+https://github.com/Ashish111279/TravelMemory-Deployment
 
 Student Name: [Your Name]
 Date: April 25, 2026
@@ -114,12 +114,12 @@ All files are ready for production deployment.
 
 **GitHub Repository**:
 ```
-https://github.com/pramod704/TravelMemory-Deployment
+https://github.com/Ashish111279/TravelMemory-Deployment
 ```
 
 **Clone Command** (for others):
 ```bash
-git clone https://github.com/pramod704/TravelMemory-Deployment.git
+git clone https://github.com/Ashish111279/TravelMemory-Deployment.git
 ```
 
 ---
@@ -148,7 +148,7 @@ Before submitting, verify:
 
 **Error: "Permission denied (publickey)"**
 - Solution: Use HTTPS URL (not SSH)
-- Already configured: `https://github.com/pramod704/TravelMemory-Deployment.git`
+- Already configured: `https://github.com/Ashish111279/TravelMemory-Deployment.git`
 
 **Error: "Authentication failed"**
 - Solution: Use Personal Access Token as password
@@ -252,7 +252,7 @@ Date: April 25, 2026
 Student: Pramod Singh
 
 REPOSITORY LINK:
-https://github.com/pramod704/TravelMemory-Deployment
+https://github.com/Ashish111279/TravelMemory-Deployment
 
 PROJECT DESCRIPTION:
 This repository contains comprehensive deployment documentation and configuration 

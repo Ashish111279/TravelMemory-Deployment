@@ -12,7 +12,7 @@ Repository Details:
 ## Step 2: After Creating Repository on GitHub
 
 Copy the HTTPS URL provided by GitHub (looks like):
-https://github.com/pramod704/TravelMemory-Deployment.git
+https://github.com/Ashish111279/TravelMemory-Deployment.git
 
 ## Step 3: Run These Commands in Terminal
 
@@ -20,7 +20,7 @@ https://github.com/pramod704/TravelMemory-Deployment.git
 cd "C:\Users\Pramod Singh\TravelMemory-Deployment"
 
 # Add GitHub repository as remote
-git remote add origin https://github.com/pramod704/TravelMemory-Deployment.git
+git remote add origin https://github.com/Ashish111279/TravelMemory-Deployment.git
 
 # Verify remote is added
 git remote -v
@@ -38,7 +38,7 @@ git log --oneline
 ## Step 4: Share Repository Link
 
 Once pushed, your repository link will be:
-https://github.com/pramod704/TravelMemory-Deployment
+https://github.com/Ashish111279/TravelMemory-Deployment
 
 Use this link for your Vlearn submission!
 

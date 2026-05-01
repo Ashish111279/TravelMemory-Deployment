@@ -31,7 +31,7 @@ if %ERRORLEVEL% EQU 0 (
     echo ====================================
     echo.
     echo Your repository link is:
-    echo https://github.com/pramod704/TravelMemory-Deployment
+    echo https://github.com/Ashish111279/TravelMemory-Deployment
     echo.
     echo Ready to submit to Vlearn!
     echo.

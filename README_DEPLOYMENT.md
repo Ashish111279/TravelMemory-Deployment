@@ -111,7 +111,7 @@ ssh -i your-key.pem ubuntu@<BACKEND_IP>
 
 # Download and run deployment script
 cd ~
-wget https://raw.githubusercontent.com/pramod704/TravelMemory-Deployment/main/deploy-backend.sh
+wget https://raw.githubusercontent.com/Ashish111279/TravelMemory-Deployment/main/deploy-backend.sh
 chmod +x deploy-backend.sh
 ./deploy-backend.sh
 
@@ -127,7 +127,7 @@ ssh -i your-key.pem ubuntu@<FRONTEND_IP>
 
 # Download and run deployment script
 cd ~
-wget https://raw.githubusercontent.com/pramod704/TravelMemory-Deployment/main/deploy-frontend.sh
+wget https://raw.githubusercontent.com/Ashish111279/TravelMemory-Deployment/main/deploy-frontend.sh
 chmod +x deploy-frontend.sh
 ./deploy-frontend.sh
 
@@ -322,7 +322,7 @@ To create your own deployment repository:
 # Visit: https://github.com/new
 
 # 2. Clone this deployment repo locally
-git clone https://github.com/pramod704/TravelMemory-Deployment.git
+git clone https://github.com/Ashish111279/TravelMemory-Deployment.git
 
 # 3. Create your own repository
 git remote add your-repo https://github.com/YOUR_USERNAME/YOUR_REPO.git
@@ -413,4 +413,4 @@ For issues or questions:
 **Status**: Production Ready  
 **Maintained by**: Pramod Singh (pramodsingh3503@gmail.com)
 
-For the most up-to-date information, visit: https://github.com/pramod704/TravelMemory-Deployment
+For the most up-to-date information, visit: https://github.com/Ashish111279/TravelMemory-Deployment
