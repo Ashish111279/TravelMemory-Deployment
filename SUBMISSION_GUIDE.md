@@ -19,7 +19,7 @@
 **Option A: Using the provided script**
 ```powershell
 # Navigate to the deployment folder
-cd "C:\Users\Pramod Singh\TravelMemory-Deployment"
+cd "C:\Users\cshas\TravelMemory-Deployment"
 
 # Run the push script
 .\push-to-github.bat
@@ -30,7 +30,7 @@ cd "C:\Users\Pramod Singh\TravelMemory-Deployment"
 
 **Option B: Using command line directly**
 ```bash
-cd "C:\Users\Pramod Singh\TravelMemory-Deployment"
+cd "C:\Users\cshas\TravelMemory-Deployment"
 git push -u origin master
 ```
 
